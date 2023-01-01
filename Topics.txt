@@ -1,0 +1,102 @@
+System design topics
+
+1. System Design Basics
+2. Key Characteristics of Distributed Systems
+3. Client—Server Model
+
+
+# nginx
+Load Balancing
+Proxies
+Caching
+Rate Limiting
+Logging And Monitoring
+
+
+
+# database mongodb
+Indexes
+Data Partitioning
+Redundancy and Replication
+SQL vs. NoSQL
+CAP Theorem
+Heartbeat (New)
+Leader Election
+Replication And Sharding
+Relational Databases
+Key-Value Stores (redis)
+
+
+# Others
+PACELC Theorem (New)
+Consistent Hashing (https://www.toptal.com/big-data/consistent-hashing)
+Long-Polling vs WebSockets vs Server-Sent Events
+Bloom Filters (New)
+Quorum (New)
+Leader and Follower (New)
+Checksum (New)
+API Design
+Publish/Subscribe Pattern
+MapReduce (https://iq.opengenus.org/map-reduce/)
+Security And HTTPS
+Peer-To-Peer Networks
+Polling And Streaming (https://www.geeksforgeeks.org/polling-and-streaming-concept-scenarios/)
+Configuration
+Specialized Storage Paradigms
+Network Protocols
+Storage
+Latency And Throughput
+
+
+
+
+
+
+13.2: Leader-Follower Relationships
+Directing.
+Coaching.
+Supporting.
+Delegating.
+
+
+
+
+############ Design A Code-Deployment System ###############
+# from algoexpert
+Design AlgoExpert
+Design A Stockbroker
+Design Amazon
+Design The Reddit API
+Design Facebook News Feed
+Design Google Drive
+Design Netflix
+Design The Uber API
+Design Tinder
+Design Slack
+Design Airbnb
+Design The Twitch API
+
+
+# from designgurus.org
+02
+System Design Problems
+Designing Pastebin
+Designing Instagram
+Designing Dropbox
+Designing Facebook Messenger
+Designing Twitter
+Designing Youtube or Netflix
+Designing Typeahead Suggestion
+Designing an API Rate Limiter
+Designing Twitter Search
+Designing Facebook’s Newsfeed
+Designing a Web Crawler
+Designing Yelp or Nearby Friends
+Designing Uber backend
+Designing Ticketmaster
+Additional Resources
+
+
+
+
+

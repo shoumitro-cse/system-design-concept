@@ -1,0 +1,11 @@
+
+
+# System Design (all most)
+https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo
+https://github.com/karanpratapsingh/system-design
+https://www.karanpratapsingh.com/blog/system-design-the-complete-course
+
+
+# microservices
+https://www.karanpratapsingh.com/courses/system-design/monoliths-microservices
+https://www.karanpratapsingh.com/courses/system-design/long-polling-websockets-server-sent-events
